@@ -1,3 +1,4 @@
 # Track-Thanos
 
-When Thanos gets near any of the stone, avengers will appear.
+I used my own api so run it as node app.js in backend folder , a server will run on port 3000.
+then open index.html to see the output
